@@ -1,0 +1,29 @@
+{
+  "name": "nuxt03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "3333"
+    }
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bulma": "^0.6.1",
+    "element-ui": "^2.0.7",
+    "iview": "^2.7.3",
+    "nuxt": "^1.0.0-rc11",
+    "vue": "^2.4.4"
+  },
+  "devDependencies": {}
+}
