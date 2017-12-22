@@ -47,3 +47,10 @@
     * `store`可以使用`vuex`状态机管理项目状态
     * `nuxt.config.js`是`nuxt`的配置文件
 
+
+
+---
+###欢迎加入群聊，我们一起探讨前端技术栈
+> 群号:560285778
+
+![这里写图片描述](http://img.blog.csdn.net/20171008104715122?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQva3VhbmdzaHAxMjg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
