@@ -35,6 +35,7 @@
     ```
     
 * 5、根据文档构建一个项目全部的目录
+
     ![nuxt.png](http://img.blog.csdn.net/20171222212046900?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQva3VhbmdzaHAxMjg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
     * `components`存放公共组件的
     * `css`存放公共样式,可以在`nuxt.config.js`中引入
